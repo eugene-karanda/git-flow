@@ -1,7 +1,8 @@
+plugins {
+    id 'java'
+}
+
 group 'org.overmind.git-flow'
-
-apply plugin: 'java'
-
 sourceCompatibility = 1.8
 
 repositories {
